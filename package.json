@@ -12,6 +12,7 @@
   },
   "homepage": "https://gitlab.com/aarongoldenthal/renovate-npm-scoped-packages#readme",
   "devDependencies": {
+    "@jest/globals": "^27.5.1",
     "jest-junit": "13.1.0"
   }
 }
