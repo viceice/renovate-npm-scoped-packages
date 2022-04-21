@@ -1,0 +1,17 @@
+{
+  "name": "renovate-npm-scoped-packages",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/aarongoldenthal/renovate-npm-scoped-packages.git"
+  },
+  "author": "Aaron Goldenthal <aaron.goldenthal@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/aarongoldenthal/renovate-npm-scoped-packages/issues"
+  },
+  "homepage": "https://gitlab.com/aarongoldenthal/renovate-npm-scoped-packages#readme",
+  "devDependencies": {
+    "jest-junit": "13.1.0"
+  }
+}
